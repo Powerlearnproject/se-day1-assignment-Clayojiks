@@ -19,6 +19,7 @@ Importance:
 5.Complex Systems; Modern software systems are increasingly complex, Software engineering provides the principles and methodologies to manage this complexity and ensure the integrity, reliability, and scalability of these systems to the intended users.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. Structured Programming; In the 1960s and 1970s, Structured programming emerged as a paradigm that focused on the use of control structures which are loops and conditional statements to create more organized, modular, and maintainable code. This laid a foundation for Modern software engineering.
  
 2. Objected Oriented Programming(OOP); In the 1970s and 1980s OOP introduced fundamental concepts like classes, objects, inheritance, and polymorphism, which allowed for the creation of more modular, extensive, and reusable software components. This entails write the code, running to debug then implementing it. The languages are Smalltalk, C++, and Java, that became widely adopted and helped drive the development of more complex and sophisticated software systems.
@@ -26,6 +27,7 @@ Identify and describe at least three key milestones in the evolution of software
 3. Agile Software development; This in the 1980s and 1990s the software emerged as a more flexible and iterative approach, giving customer feedback, and the ability to adapt to change.Its methodologies, like Scrum, Extreme Programming (XP), and Lean Software Development, became widely adopted and helped organizations deliver software more quickly and effectively.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1. Requirement Gathering and Analysis - This phase entails goals, objectives and the requirements of the system, the development team, in collaboration with the stakeholders, gathers and document the functional and non-functional requirements of the system software.
 
 2. Design - High-level design are established, including data structures, algorithms, and interface designs, to guide the implementation of the software.
@@ -41,7 +43,9 @@ Different testing techniques, such as unit testing, integration testing, and sys
 6. Maintenance and Support - After its deployment the maintenance and support phase starts, which involves monitoring the software's performance, addressing any issues or bugs that may arise, updating based on user feedback and evolving requirements.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall methodology is a linear, sequential approach to software development, that each phase must complete the software development life cycle before moving to the next phase while Agile methodolgy is an iterative approach where the development process is divided into smaller manageable iterations.
+
 Agile methodology are open to changes and adaptations throughout the process while Waterfall requires a well-defined document-driven process, with clear start and end for each phase.
 
 Waterfall methodology is best suited for development of mission-critical systems like aerospace or medical industries where changes to the requirements can be costly and dangerous.
@@ -53,6 +57,7 @@ Also in Software development for products with a high degree of user interaction
 In addition also projects with a need for early and frequent delivery of working software, like in startups or fast-paced product development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software developer - To translate design specifications into working code using programming languages, frameworks and tools.
                     - Write a clean, maintainable and efficient code that meets functional and non-functional requirements.
                     - Collaborate with other team members to ensure a great integration of software components.
@@ -68,6 +73,7 @@ Project Manager - States the project scope, objectives, and timeline in collabor
                 - Monitoring the project progress, giving feedback on the project status, milestones and any changes to the stakeholders.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environment(IDEs) - Provide a good integrated working environment for writing, testing and deploying code. Its features include Code editor, compiler, debugging tools, build automation and integration with version control this enables seamless collaboration and code management. Examples are -  Visual Studio Code(Microsoft)
                           - IntelliJ IDEA (JetBrains)
                           - Pycharm(JetBrains)
@@ -79,6 +85,7 @@ Its examples entails - Git(distrubuted VCS)
                      - GitHub(web-based hosting service for Git repositories)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1.Changing Requirements - The strategy is to adopt Agile methodology, which promote flexibility and continous collaboration with stakeholders.
 Maintain an open communication with stakeholders and reqularly review and priotize requirements.
 
@@ -106,6 +113,7 @@ In software quality assuarance - Must meet both non-functional and functional re
 
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Promt engineering refers to the art of crafting effective elicit desired responses from AI models, it's crucial as the quality of the prompts directly impacts the usefulness and accuracy of the model's outputs.
                     - Enhance Accuracy
                     - Increase Efficiency
